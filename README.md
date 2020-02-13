@@ -1,3 +1,5 @@
+This is a simple Expense-Income App. which will be developed with React and NodeJS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
